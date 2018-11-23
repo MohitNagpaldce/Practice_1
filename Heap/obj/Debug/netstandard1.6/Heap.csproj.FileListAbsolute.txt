@@ -1,0 +1,6 @@
+E:\Personal\Practice\Heap\bin\Debug\netstandard1.6\Heap.deps.json
+E:\Personal\Practice\Heap\obj\Debug\netstandard1.6\Heap.csprojResolveAssemblyReference.cache
+E:\Personal\Practice\Heap\obj\Debug\netstandard1.6\Heap.csproj.CoreCompileInputs.cache
+E:\Personal\Practice\Heap\obj\Debug\netstandard1.6\Heap.AssemblyInfo.cs
+E:\Personal\Practice\Heap\obj\Debug\netstandard1.6\Heap.dll
+E:\Personal\Practice\Heap\obj\Debug\netstandard1.6\Heap.pdb

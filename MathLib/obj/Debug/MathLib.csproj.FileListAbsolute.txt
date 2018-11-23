@@ -1,0 +1,5 @@
+C:\personal\Practice\MathLib\bin\Debug\MathLib.dll
+C:\personal\Practice\MathLib\bin\Debug\MathLib.pdb
+C:\personal\Practice\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+C:\personal\Practice\MathLib\obj\Debug\MathLib.dll
+C:\personal\Practice\MathLib\obj\Debug\MathLib.pdb

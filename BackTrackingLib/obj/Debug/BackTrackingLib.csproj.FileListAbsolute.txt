@@ -1,0 +1,5 @@
+C:\personal\Practice\BackTrackingLib\bin\Debug\BackTrackingLib.dll
+C:\personal\Practice\BackTrackingLib\bin\Debug\BackTrackingLib.pdb
+C:\personal\Practice\BackTrackingLib\obj\Debug\BackTrackingLib.csprojResolveAssemblyReference.cache
+C:\personal\Practice\BackTrackingLib\obj\Debug\BackTrackingLib.dll
+C:\personal\Practice\BackTrackingLib\obj\Debug\BackTrackingLib.pdb

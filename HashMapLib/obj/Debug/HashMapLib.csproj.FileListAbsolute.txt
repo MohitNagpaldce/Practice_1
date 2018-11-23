@@ -1,0 +1,5 @@
+C:\personal\Practice\HashMapLib\bin\Debug\HashMapLib.dll
+C:\personal\Practice\HashMapLib\bin\Debug\HashMapLib.pdb
+C:\personal\Practice\HashMapLib\obj\Debug\HashMapLib.csprojResolveAssemblyReference.cache
+C:\personal\Practice\HashMapLib\obj\Debug\HashMapLib.dll
+C:\personal\Practice\HashMapLib\obj\Debug\HashMapLib.pdb

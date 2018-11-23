@@ -1,0 +1,5 @@
+C:\personal\Practice\GoogleAtGeeksPractice\bin\Debug\GoogleAtGeeksPractice.dll
+C:\personal\Practice\GoogleAtGeeksPractice\bin\Debug\GoogleAtGeeksPractice.pdb
+C:\personal\Practice\GoogleAtGeeksPractice\obj\Debug\GoogleAtGeeksPractice.csprojResolveAssemblyReference.cache
+C:\personal\Practice\GoogleAtGeeksPractice\obj\Debug\GoogleAtGeeksPractice.dll
+C:\personal\Practice\GoogleAtGeeksPractice\obj\Debug\GoogleAtGeeksPractice.pdb

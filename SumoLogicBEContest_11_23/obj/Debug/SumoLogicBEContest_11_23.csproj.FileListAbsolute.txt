@@ -1,0 +1,5 @@
+C:\personal\Practice\SumoLogicBEContest_11_23\bin\Debug\SumoLogicBEContest_11_23.dll
+C:\personal\Practice\SumoLogicBEContest_11_23\bin\Debug\SumoLogicBEContest_11_23.pdb
+C:\personal\Practice\SumoLogicBEContest_11_23\obj\Debug\SumoLogicBEContest_11_23.csprojResolveAssemblyReference.cache
+C:\personal\Practice\SumoLogicBEContest_11_23\obj\Debug\SumoLogicBEContest_11_23.dll
+C:\personal\Practice\SumoLogicBEContest_11_23\obj\Debug\SumoLogicBEContest_11_23.pdb

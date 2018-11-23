@@ -1,0 +1,11 @@
+E:\Personal\Practice\HeapsLib\bin\Debug\HeapsLib.dll
+E:\Personal\Practice\HeapsLib\bin\Debug\HeapsLib.pdb
+E:\Personal\Practice\HeapsLib\obj\Debug\HeapsLib.csproj.CoreCompileInputs.cache
+E:\Personal\Practice\HeapsLib\obj\Debug\HeapsLib.dll
+E:\Personal\Practice\HeapsLib\obj\Debug\HeapsLib.pdb
+E:\Personal\Practice\HeapsLib\obj\Debug\HeapsLib.csprojResolveAssemblyReference.cache
+C:\personal\Practice\HeapsLib\bin\Debug\HeapsLib.dll
+C:\personal\Practice\HeapsLib\bin\Debug\HeapsLib.pdb
+C:\personal\Practice\HeapsLib\obj\Debug\HeapsLib.csprojResolveAssemblyReference.cache
+C:\personal\Practice\HeapsLib\obj\Debug\HeapsLib.dll
+C:\personal\Practice\HeapsLib\obj\Debug\HeapsLib.pdb

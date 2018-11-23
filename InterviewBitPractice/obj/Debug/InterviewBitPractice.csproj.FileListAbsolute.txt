@@ -1,0 +1,5 @@
+C:\personal\Practice\InterviewBitPractice\bin\Debug\InterviewBitPractice.dll
+C:\personal\Practice\InterviewBitPractice\bin\Debug\InterviewBitPractice.pdb
+C:\personal\Practice\InterviewBitPractice\obj\Debug\InterviewBitPractice.csprojResolveAssemblyReference.cache
+C:\personal\Practice\InterviewBitPractice\obj\Debug\InterviewBitPractice.dll
+C:\personal\Practice\InterviewBitPractice\obj\Debug\InterviewBitPractice.pdb
