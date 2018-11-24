@@ -193,6 +193,95 @@ namespace BackTrackingLib
             return result;
         }
 
+        public void SolveNQueenProblem(int N)
+        {
+            // first create 2d matrix of size N and type int.
+            List<List<int>> board = this.GetMatrix<int>(N, 0);
+            List<List<List<int>>> allResults = new List<List<List<int>>>();
+            bool result = NQueenUtil(0, board, allResults);
+            Console.WriteLine($"Result:{result}");
+            //board.ForEach(entry => Console.WriteLine($"{string.Join(",", entry.Select(e => e))}"));
+            allResults.ForEach(b => b.ForEach(entry => Console.WriteLine($"{string.Join(",", entry.Select(e => e))}")));
+        }
+
+        bool NQueenUtil(int colNumber, List<List<int>> board, List<List<List<int>>> allResults)
+        {
+            if(colNumber >= board.Count)
+            {
+                List<List<int>> newboard = this.GetMatrix<int>(board.Count, 0);
+                for(int i =0; i < board.Count; i++)
+                    for(int j=0; j < board.Count; j++)
+                    {
+                        newboard[i][j] = board[i][j];
+                        allResults.Add(newboard);
+                    }
+
+                return true;
+            }
+
+            for (int i =0; i < board.Count; i++)
+            {
+                if(IsSafe(i, colNumber, board))
+                {
+                    board[i][colNumber] = 1;
+                    NQueenUtil(colNumber + 1, board, allResults);
+                    board[i][colNumber] = 0;
+                }
+            }
+
+            return false;
+        }
+
+        private bool IsSafe(int row, int col, List<List<int>> board)
+        {
+            for(int a =0; a < col; a++)
+            {
+                if(board[row][a] == 1)
+                {
+                    return false;
+                }
+            }
+
+            // diagonal downwards
+            int i = row - 1;
+            int j = col - 1;
+            for(;i>=0 && j>=0; i--,j--)
+            {
+                if (board[i][j] == 1)
+                {
+                    return false;
+                }
+            }
+
+            // diagonal upwards
+            i = row;
+            j = col;
+            for (; i < board.Count && j >= 0; i++, j--)
+            {
+                if (board[i][j] == 1)
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        private List<List<T>> GetMatrix<T>(int size, T defaultVal)
+        {
+            List<List<T>> result = new List<List<T>>();
+            for(int i = 0; i < size; i++)
+            {
+                result.Add(new List<T>());
+                for(int j = 0; j <size; j++)
+                {
+                    result[i].Add(defaultVal);
+                }
+            }
+
+            return result;
+        }
+
         private void CombinationSumUtil2(List<int> A, List<int> currentSet, int index, List<List<int>> result, int sum)
         {
             if (sum == 0)

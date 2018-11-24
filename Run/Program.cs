@@ -24,7 +24,8 @@ namespace Run
             //TestMathLib();
 
             //TestBackTrackingProblem();
-            TestSumoLogicBEContest();
+            // TestSumoLogicBEContest();
+            TestBackTrackingProblem();
         }
 
         static void TestSumoLogicBEContest()
@@ -106,7 +107,8 @@ namespace Run
             // lib.subsets1(input);
             // lib.combinationSum(input, 28);
             // lib.PalindromicPartioning("ababbbabbababa");
-            lib.letterCombinations("2");
+            // lib.letterCombinations("2");
+            lib.SolveNQueenProblem(6);
         }
 
         /// <summary>
